@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">挂机查询</string>
+    <string name="title_activity_Gjb">挂机邦</string>
+    <string name="title_activity_money_detail">待领工资明细</string>
+    <string name="title_activity_history_detail">历史工资明细</string>
+    <string name="title_activity_withdraw">申请提现</string>
+    <string name="title_activity_njgj">宁静挂机</string>
+    <string name="title_activity_withdraw_history">提现记录</string>
+</resources>
